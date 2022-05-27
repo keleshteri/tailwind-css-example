@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-css-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keleshteri/tailwind-css-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keleshteri/tailwind-css-example/issues"
+  },
+  "homepage": "https://github.com/keleshteri/tailwind-css-example#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
